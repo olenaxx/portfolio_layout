@@ -203,7 +203,7 @@ li {
 .skills__box {
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
 }
 
 .skills__item {
